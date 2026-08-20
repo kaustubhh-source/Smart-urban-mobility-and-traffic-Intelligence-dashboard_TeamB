@@ -3,7 +3,7 @@
 Power BI analytics dashboard analyzing urban traffic, ride-hailing operations, weather impacts, and socio-demographic baselines across 8 major Indian cities.
 
 ## Team Members
-- Uday Soni
+- Uday Bhanuprakash
 - Sathwika Choudhary
 - Vara sai nandu varma
 - Kaustubh Shinde
